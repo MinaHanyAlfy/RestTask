@@ -38,4 +38,5 @@ final class RestTaskUITests: XCTestCase {
             }
         }
     }
+    
 }

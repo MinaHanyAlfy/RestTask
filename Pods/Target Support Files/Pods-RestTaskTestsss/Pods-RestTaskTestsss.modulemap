@@ -1,0 +1,6 @@
+framework module Pods_RestTaskTestsss {
+  umbrella header "Pods-RestTaskTestsss-umbrella.h"
+
+  export *
+  module * { export * }
+}

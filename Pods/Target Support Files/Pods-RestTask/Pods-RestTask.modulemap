@@ -1,0 +1,6 @@
+framework module Pods_RestTask {
+  umbrella header "Pods-RestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
